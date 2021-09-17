@@ -21,9 +21,9 @@ its a memory efficiant.
 compailer provaied the mangale name to each function and machine call that function using this name.its unics
 */
 /*
-fat arrow function / Arrowfunction
+// fat arrow function / Arrowfunction
 ()=>{
-    consol.log("fat arrow function call");
+    console.log("fat arrow function call");
 
 }
 */
