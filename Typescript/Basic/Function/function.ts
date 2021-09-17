@@ -58,7 +58,7 @@ var str3 = temp4("Function with parameter ",'& with Return type');
 console.log(str3)
 
 /*
-Fat arrow function/Arrow function
+Fat arrow function/Arrow function 
 */
 console.log("\nFat Arrow Function");
 var fat1= ()=>{
