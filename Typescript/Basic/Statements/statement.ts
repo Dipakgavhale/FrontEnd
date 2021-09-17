@@ -13,6 +13,15 @@ if(count2 > 0){
 }else{
     console.log("Number is negative.");
 }
+if(A>0){
+    console.log("Number is Positive.");
+}
+else if(A<0){
+    console.log("Number is Negative.");
+}
+else{
+    console.log("Number is Zero.");
+}
 var age = 5;
 if(age > 0){
     if(count2 > 18){
