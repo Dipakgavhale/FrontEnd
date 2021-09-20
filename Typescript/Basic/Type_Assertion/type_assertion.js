@@ -5,24 +5,24 @@
         1   Angle bracket
         2   as syntax
 */
-var A = true;
+var bool = true;
 // Angle bracket
-var temp1 = A;
+var temp1 = bool;
 console.log("Value of A is convert boolean into String : " + temp1); // "true"
 // as syntax
-var temp2 = A;
+var temp2 = bool;
 console.log("Value of A is convert boolean into number : " + temp2); // true
-var str = "Dipak";
+var str10 = "Dipak";
 // Angle bracket
-var temp3 = A;
-console.log("Value of str is convert string into boolean : " + temp3);
+var temp3 = str10;
+console.log("Value of str is convert string into boolean : " + temp3); // Dipak
 // as syntax
-var temp4 = A;
-console.log("Value of str is convert boolean into number : " + temp4);
+var temp4 = str10;
+console.log("Value of str is convert boolean into number : " + temp4); // Dipak
 var num = 150;
 // Angle bracket
-var temp5 = A;
-console.log("Value of num is convert number into boolean : " + temp5);
+var temp5 = num;
+console.log("Value of num is convert number into boolean : " + temp5); // 150 
 // as syntax
-var temp6 = A;
-console.log("Value of num is convert number into String : " + temp6);
+var temp6 = num;
+console.log("Value of num is convert number into String : " + temp6); // 150

@@ -9,7 +9,7 @@ var Num;
 var mun;
 var num_1;
 var $num;
-var a1, a2, a3;
+var s1, s2, s3;
 // var 1_num;
 // var -num;
 //scope of veriable

@@ -13,10 +13,11 @@ if(count2 > 0){
 }else{
     console.log("Number is negative.");
 }
-if(A>0){
+var count3 :number=5;
+if(count3 > 0){
     console.log("Number is Positive.");
 }
-else if(A<0){
+else if(count3 < 0){
     console.log("Number is Negative.");
 }
 else{

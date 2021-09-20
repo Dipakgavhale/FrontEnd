@@ -15,6 +15,7 @@ console.log(`${num1} - ${num2} = `+(num1-num2));
 console.log(`${num1} * ${num2} = `+(num1*num2));
 console.log(`${num1} / ${num2} = `+(num1/num2));
 console.log(`${num1} % ${num2} = `+(num1%num2));
+
 console.log("\nLogical AND ")
 var A: boolean = true, B: boolean=true, C: boolean = false, D: boolean = false;
 console.log(`${A} && ${B} = `+(A && B));
@@ -26,6 +27,7 @@ console.log(`${A} || ${B} = `+(A || B));
 console.log(`${A} || ${C} = `+(A || C));
 console.log(`${C} || ${B} = `+(C || B));
 console.log(`${C} || ${D} = `+(C || D));
+
 console.log("\nBitwise ")
 var num3: number = 10,num4: number=20;
 console.log(`${num3} & ${num4} = `+(num3 & num4));

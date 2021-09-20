@@ -13,7 +13,7 @@ while (count != 0) {
     count--;
 }
 console.log("Using do_while loop.");
-var count1 = 0;
+var count1 = 5;
 do {
     console.log("count1 = " + count1);
     count1--;

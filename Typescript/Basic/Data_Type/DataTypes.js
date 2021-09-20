@@ -29,7 +29,6 @@ console.log("Value of variable char is " + char + " ");
 /*
     boolean (True, false)
     defolat value of number veriable is undefined
-
 */
 var b;
 console.log("\nDefolat value of variable b for string data type " + b);
