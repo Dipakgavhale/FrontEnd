@@ -1,21 +1,7 @@
-console.log("hi");
-console.log("hi");
-console.log("hi");
-console.log("hi");
 /*
-
-
-*/
-/*
-Task # 4
-Implement has relationship of address class in Employee Details Class property (house no, area, city, pin)
-
-//Task # 5
-Find perfect square from 1 to 100 using while, for loop
-
-Task # 8
-Create Default parameter function of handloom shop which by default has 10% discount on each item,
-also they offer total 20%discount during sale on MRP price. Display the discount price & Total selling price
+    Task # 8
+    Create Default parameter function of handloom shop which by default has 10% discount on each item,
+    also they offer total 20%discount during sale on MRP price. Display the discount price & Total selling price
 */
 function hanloomShop(mrp_price, discount) {
     if (discount === void 0) { discount = 10; }
