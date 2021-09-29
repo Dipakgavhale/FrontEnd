@@ -12,8 +12,29 @@ var address = /** @class */ (function () {
         this.city = city;
         this.pin = pin;
     }
-    address.prototype.displayAdd = function () {
-        return (this.house_no + " " + this.area + " " + this.city + " " + this.pin + " ");
+    address.prototype.getHouse_no = function () {
+        return (this.house_no);
+    };
+    address.prototype.setHouse_no = function (house_no) {
+        this.house_no = house_no;
+    };
+    address.prototype.getArea = function () {
+        return (this.area);
+    };
+    address.prototype.setArea = function (area) {
+        this.area = area;
+    };
+    address.prototype.getCity = function () {
+        return (this.city);
+    };
+    address.prototype.setCity = function (city) {
+        this.city = city;
+    };
+    address.prototype.getPin = function () {
+        return (this.pin);
+    };
+    address.prototype.setPin = function (pin) {
+        this.pin = pin;
     };
     return address;
 }());
